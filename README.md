@@ -31,9 +31,9 @@ Date|Lecture|Project|
 12/5/2025 | [Retrieval-augmented Generation](lectures/09_RAG) | |
 12/19/2025 | | Review meetings (13.00 - 17:00) |
 12/19/2025 | [Summarization and keyword extraction](lectures/10_Summarization) | Review meetings (9.00 - 13:00) |
-1/9/2025 | [Annotation basics and challenges](lectures/11_Annotation) | |
-1/16/2025 | | Final presentations (13.00 - 19.00) |
-1/23/2025 | | Deadline for final submission |
+1/9/2026 | [Annotation basics and challenges](lectures/11_Annotation) | |
+1/16/2026 | | Final presentations (13.00 - 19.00) |
+1/23/2026 | | Deadline for final submission |
 
 
 
