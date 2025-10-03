@@ -29,7 +29,7 @@ Date|Lecture|Project|
 11/21/2025 | [Semantics: overview](lectures/07_Semantics) | |
 11/28/2025 | [Information Extraction](lectures/08_Information_Extraction) | Milestone 2 deadline |
 12/5/2025 | [Retrieval-augmented Generation](lectures/09_RAG) | |
-12/19/2025 | | Review meetings (13.00 - 17:00) |
+12/15/2025 | | Review meetings (13.00 - 17:00) |
 12/19/2025 | [Summarization and keyword extraction](lectures/10_Summarization) | Review meetings (9.00 - 13:00) |
 1/9/2026 | [Annotation basics and challenges](lectures/11_Annotation) | |
 1/16/2026 | | Final presentations (13.00 - 19.00) |
