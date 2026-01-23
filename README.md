@@ -33,7 +33,7 @@ Date|Lecture|Project|
 12/19/2025 | [Summarization and keyword extraction](lectures/10_Summarization) | Review meetings (9.00 - 13:00) |
 1/9/2026 | [Annotation basics and challenges](lectures/11_Annotation) | |
 1/16/2026 | | Final presentations (9.00 - 15.00) |
-1/23/2026 | | Deadline for final submission |
+1/25/2026 | | Deadline for final submission |
 
 
 
